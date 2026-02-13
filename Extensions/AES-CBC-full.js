@@ -72,4 +72,5 @@
   }
 
   Scratch.extensions.register(new AESCryptoExtension());
+
 })(Scratch);
